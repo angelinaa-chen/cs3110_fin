@@ -8,6 +8,8 @@ Matthew Jia (mcj57)</br>
 ### Description
 An OCaml-based version and adaptation of The New York Times game Strands (https://www.nytimes.com/games/strands)!
 
+You can [view a demo of our game here](https://www.youtube.com/watch?v=OPrpsbnhk5M). :)
+
 ### Requirements to run: <br>
 Install required package dependencies (lablgtk3) by running `# opam install lablgtk3 `
 
